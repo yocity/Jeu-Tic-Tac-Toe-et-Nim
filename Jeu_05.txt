@@ -1,0 +1,48 @@
+src$ java -cp ../build/ games.plays.DemoNim 20 5
+
+Bonjour à tous, on va jouer au Nim
+
+
+C'est au joueur games.players.NegamaxPlayer@5caf905d de jouer
+
+Il reste 20 allumettes
+Vous avez enleve 1 d'allumettes
+
+C'est au joueur games.players.NegamaxPlayer@85ede7b de jouer
+
+Il reste 19 allumettes
+Vous avez enleve 1 d'allumettes
+
+C'est au joueur games.players.NegamaxPlayer@5caf905d de jouer
+
+Il reste 18 allumettes
+Vous avez enleve 5 d'allumettes
+
+C'est au joueur games.players.NegamaxPlayer@85ede7b de jouer
+
+Il reste 13 allumettes
+Vous avez enleve 1 d'allumettes
+
+C'est au joueur games.players.NegamaxPlayer@5caf905d de jouer
+
+Il reste 12 allumettes
+Vous avez enleve 5 d'allumettes
+
+C'est au joueur games.players.NegamaxPlayer@85ede7b de jouer
+
+Il reste 7 allumettes
+Vous avez enleve 1 d'allumettes
+
+C'est au joueur games.players.NegamaxPlayer@5caf905d de jouer
+
+Il reste 6 allumettes
+Vous avez enleve 5 d'allumettes
+
+C'est au joueur games.players.NegamaxPlayer@85ede7b de jouer
+
+Il reste 1 allumettes
+Vous avez enleve 1 d'allumettes
+
+Il reste 0 allumettes
+
+Le gagnant est : games.players.NegamaxPlayer@5caf905d

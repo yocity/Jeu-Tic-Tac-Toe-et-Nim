@@ -1,0 +1,88 @@
+src$ java -cp ../build/ games.factoredgames.DemoTicTacToe
+
+
+Bonjour à tous, on va jouer au Tactactoe
+Vous devez entrez le nom des deux joueurs pour jouer
+Nom du joueur 1
+j1
+Nom du joueur 2
+j2
+  0 1 2
+0 . . .
+1 . . .
+2 . . .
+
+C'est au tour de j1 de jouer.
+entre votre coup
+2
+  0 1 2
+0 . . X
+1 . . .
+2 . . .
+
+C'est au tour de j2 de jouer.
+entre votre coup
+1
+  0 1 2
+0 . O X
+1 . . .
+2 . . .
+
+C'est au tour de j1 de jouer.
+entre votre coup
+5
+  0 1 2
+0 . O X
+1 . . X
+2 . . .
+
+C'est au tour de j2 de jouer.
+entre votre coup
+8
+  0 1 2
+0 . O X
+1 . . X
+2 . . O
+
+C'est au tour de j1 de jouer.
+entre votre coup
+4
+  0 1 2
+0 . O X
+1 . X X
+2 . . O
+
+C'est au tour de j2 de jouer.
+entre votre coup
+3
+  0 1 2
+0 . O X
+1 O X X
+2 . . O
+
+C'est au tour de j1 de jouer.
+entre votre coup
+7
+  0 1 2
+0 . O X
+1 O X X
+2 . X O
+
+C'est au tour de j2 de jouer.
+entre votre coup
+0
+  0 1 2
+0 O O X
+1 O X X
+2 . X O
+
+C'est au tour de j1 de jouer.
+entre votre coup
+6
+Vainqueur: j1
+
+
+  0 1 2
+0 O O X
+1 O X X
+2 X X O

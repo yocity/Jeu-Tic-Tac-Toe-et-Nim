@@ -1,0 +1,21 @@
+src$ java -cp ../build/ games.factoredgames.DemoNim 
+
+Bonjour à tous, on va jouer au Nim
+Vous devez choisir un nombre de matchs, un nombre de matchs à enlever et le nom de joueur 1 et 2 pour jouer
+Entrez le nombre total d'allumettes
+5 
+Entrez le nombre maximum d'allumettes à enlever en une fois
+3
+Nom du joueur 1
+j1
+Nom du joueur 2
+j2
+Il reste 5 allumettes
+C'est au tour de j1 de jouer.
+Quel est le nombre d'allumettes à enlever ?
+2
+Il reste 3 allumettes
+C'est au tour de j2 de jouer.
+Quel est le nombre d'allumettes à enlever ?
+3
+Le gagnant est j1 !

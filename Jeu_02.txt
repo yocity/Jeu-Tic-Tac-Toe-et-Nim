@@ -1,0 +1,80 @@
+src$ java -cp ../build/ games.tictactoe.Demo
+
+Bonjour à tous, on va jouer au Morpion.
+
+Vous devez entrez le nom des deux joueurs pour commencer à jouer. 
+
+Nom du joueur 1
+Alice 
+Nom du joueur 2
+Emilie
+
+
+  0 1 2
+0 . . .
+1 . . .
+2 . . .
+
+C'est au tour de Alice de jouer.
+Entrez la ligne (0, 1 ou 2) :
+0
+Entrez la colonne (0, 1 ou 2) :
+0
+
+
+  0 1 2
+0 X . .
+1 . . .
+2 . . .
+
+C'est au tour de Emilie de jouer.
+Entrez la ligne (0, 1 ou 2) :
+1
+Entrez la colonne (0, 1 ou 2) :
+2
+
+
+  0 1 2
+0 X . .
+1 . . O
+2 . . .
+
+C'est au tour de Alice de jouer.
+Entrez la ligne (0, 1 ou 2) :
+1
+Entrez la colonne (0, 1 ou 2) :
+1
+
+
+  0 1 2
+0 X . .
+1 . X O
+2 . . .
+
+C'est au tour de Emilie de jouer.
+Entrez la ligne (0, 1 ou 2) :
+1
+Entrez la colonne (0, 1 ou 2) :
+0
+
+
+  0 1 2
+0 X . .
+1 O X O
+2 . . .
+
+C'est au tour de Alice de jouer.
+Entrez la ligne (0, 1 ou 2) :
+2
+Entrez la colonne (0, 1 ou 2) :
+2
+
+Fin de la partie; 
+
+Vainqueur : Alice
+
+
+  0 1 2
+0 X . .
+1 O X O
+2 . . X

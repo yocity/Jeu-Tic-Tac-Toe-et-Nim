@@ -1,0 +1,31 @@
+src$ java -cp ../build/ games.nim.Demo
+
+    Bonjour à tous, on va jouer au Nim.
+
+    Vous devez choisir un nombre d'allumettes total, un nombre maximum d'allumettes à enlever en une fois et les noms des joueurs 1 et 2 pour commencer jouer.
+
+    Entrez le nombre total d'allumettes
+    5
+    Entrez le nombre maximum d'allumettes à enlever en une fois
+    3
+
+    Nom du joueur 1
+    Alice
+    Nom du joueur 2
+    Emilie
+
+
+    Il reste 5 allumettes
+    C'est au tour de Alice de jouer.
+    Quel est le nombre d'allumettes que vous voulez enlever ?
+    2
+
+
+    Il reste 3 allumettes
+    C'est au tour de Emilie de jouer.
+    Quel est le nombre d'allumettes que vous voulez enlever ?
+    3
+
+    Fin de la partie; 
+
+    Vainqueur : Alice
